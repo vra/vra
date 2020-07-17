@@ -2,7 +2,7 @@
 USTCer | ex Megviier | Work at Alibaba | Son of Mason
 
 
-![gif](./octocat.gif)
+![gif](https://github.com/vra/vra/blob/master/octocat.gif?raw=true)
 ![Yunfeng's github stats](https://github-readme-stats.vercel.app/api?username=vra&show_icons=true&hide_border=true) [![HitCount](http://hits.dwyl.com/onimur/onimur.svg)](http://hits.dwyl.com/onimur/onimur)
 
 - 🔭 I’m currently working on Mac Pro 2020?
