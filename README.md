@@ -1,6 +1,6 @@
 # Yunfeng Wang 😃
 USTCer | ex Megviier | Work at Alibaba 
-![gif](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
+![gif](./octocat.gif)
 ## 🧐 About
 I am a engieer at Hangzhou, China. I train deep learning models, explore the awesome computer world, create open source project on GitHub sometimes. 
 
