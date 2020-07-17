@@ -7,8 +7,8 @@ USTCer | ex Megviier | Work at Alibaba | Son of Mason
 I am a engieer at Hangzhou, China. I train deep learning models, explore the awesome computer world, create open source project on GitHub sometimes. 
 
 ## 💻 Projects
-- [flopth - A simple program to calculate the FLOPs of Pytorch models, with cli tool and API] (https://github.com/vra/flopth)
-- [dompare - A command line tool to diff two directories recursively] (https://github.com/vra/dompare)
+- [flopth - A simple program to calculate the FLOPs of Pytorch models, with cli tool and API](https://github.com/vra/flopth)
+- [dompare - A command line tool to diff two directories recursively](https://github.com/vra/dompare)
 
 ## ⚡ Technologies
 Talk to me about
