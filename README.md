@@ -1,7 +1,17 @@
 # Yunfeng Wang 😃
 USTCer | ex Megviier | Work at Alibaba | Son of Mason
 
+
 ![gif](./octocat.gif)
+![Yunfeng's github stats](https://github-readme-stats.vercel.app/api?username=vra&show_icons=true&hide_border=true) [![HitCount](http://hits.dwyl.com/onimur/onimur.svg)](http://hits.dwyl.com/onimur/onimur)
+
+- 🔭 I’m currently working on Mac Pro 2020?
+- 🌱 I’m currently learning Unreal/Unity/Pytorch/Use OpenCV in Xcode/English/3D Pose Estimation/
+- 👯 I’m looking to collaborate on open source projects (see projects below)
+- 🤔 I’m looking for help to star me projects  😂
+- 💬 Ask me about everything at [here](https://github.com/vra/vra/issues)
+- 📫 How to reach me: GitHub is a good place.
+- ⚡ Fun fact: There are more than a dozen ways to cook potatoes, I like every way of them. (Yes, I used google translate)
 
 ## 🧐 About
 I am a engieer at Hangzhou, China. I train deep learning models, explore the awesome computer world, create open source project on GitHub sometimes. 
@@ -20,7 +30,7 @@ Talk to me about
 - Linux (`sudo rm -rf /`)
 - Unreal / Unity (`import model.FBX`)
 
-![Yunfeng's github stats](https://github-readme-stats.vercel.app/api?username=vra&show_icons=true&hide_border=true) [![HitCount](http://hits.dwyl.com/onimur/onimur.svg)](http://hits.dwyl.com/onimur/onimur)
+
 
 ## 📫 Contact Me
 - Zhihu - [@yunfeng-87](https://www.zhihu.com/people/yunfeng-87)
