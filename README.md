@@ -14,7 +14,7 @@ USTCer | ex Megviier | Work at Alibaba | Son of Mason
 - ⚡ Fun fact: There are more than a dozen ways to cook potatoes, I like every way of them. (Yes, I used google translate)
 
 ## 🧐 About
-I am a engieer at Hangzhou, China. I train deep learning models, explore the awesome computer world, create open source project on GitHub sometimes. 
+I am a engineer at Hangzhou, China. I train deep learning models, explore the awesome computer world, create open source project on GitHub sometimes. 
 
 ## 💻 Projects
 - [mirrors-china - Mirrors and registries in China to seedup your package installation](https://github.com/vra/mirrors-china)
