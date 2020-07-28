@@ -5,7 +5,7 @@ USTCer | ex Megviier | Work at Alibaba | Son of Mason
 ![gif](https://github.com/vra/vra/blob/master/octocat.gif?raw=true)
 ![Yunfeng's github stats](https://github-readme-stats.vercel.app/api?username=vra&show_icons=true&hide_border=true) [![HitCount](http://hits.dwyl.com/onimur/onimur.svg)](http://hits.dwyl.com/onimur/onimur)
 
-- 🔭 I’m currently working on Mac Pro 2020?
+- 🔭 I’m currently working on 💻
 - 🌱 I’m currently learning Unreal/Unity/Pytorch/Use OpenCV in Xcode/English/3D Pose Estimation/
 - 👯 I’m looking to collaborate on open source projects (see projects below)
 - 🤔 I’m looking for help to star me projects  😂
