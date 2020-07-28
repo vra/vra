@@ -1,5 +1,5 @@
 # Yunfeng Wang 😃
-USTCer | ex Megviier | Work at Alibaba | Son of Mason
+USTCer | ex Megviier | Work at Alibaba
 
 
 ![gif](https://github.com/vra/vra/blob/master/octocat.gif?raw=true)
