@@ -1,9 +1,7 @@
-<!--
-# Yunfeng Wang
-
 ## About
 I am a engineer at Hangzhou, China. I train deep learning models, explore the awesome computer world, create open source projects on GitHub sometimes. 
 
+<!--
 ## Projects
 - [mirrors-china - Mirrors and registries in China to seedup your package installation](https://github.com/vra/mirrors-china)
 - [flopth - A simple program to calculate the FLOPs of Pytorch models, with cli tool and API](https://github.com/vra/flopth)
