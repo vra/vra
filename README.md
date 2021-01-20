@@ -1,4 +1,4 @@
-# Yunfeng Wang 😃
+# Yunfeng Wang
 
 ## About
 I am a engineer at Hangzhou, China. I train deep learning models, explore the awesome computer world, create open source projects on GitHub sometimes. 
@@ -16,9 +16,7 @@ I am a engineer at Hangzhou, China. I train deep learning models, explore the aw
 - Linux (`sudo rm -rf /`)
 - Unreal / Unity (`import model.FBX`)
 
-
-
-## 📫 Contact Me
+## Contact Me
 - Blog - [Yunfeng's Simple Blog](https://vra.github.io/about)
 <!--
 **vra/vra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
