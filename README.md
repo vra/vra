@@ -1,5 +1,5 @@
 ## About
-I am an engineer at Hangzhou, China. I train deep learning models, explore the awesome computer world and create open source projects on GitHub sometimes. 
+I train deep learning models, explore the awesome computer world and create open source projects on GitHub sometimes. 
 
 <!--
 ## Projects
