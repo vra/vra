@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## Journey
 + 👨‍💻 2020.06-now work@Alibaba
 + 👨‍💻 2018.06-2020.06 work@MegVii
-+ 👨‍🎓 2011.06-2018.06 study@USTC
++ 👨‍🎓 2011.08-2018.06 study@USTC
 
 
 ## Interests
